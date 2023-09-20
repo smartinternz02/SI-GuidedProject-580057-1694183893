@@ -1,0 +1,113 @@
+<resources>
+    <string name="app_name">DineHub</string>
+    <string name="title_activity_hotel">HotelActivity</string>
+    <string name="title_activity_items">Items</string>
+    <string name="title_activity_menu2">Menu2</string>
+    <string name="title_activity_menu3">Menu3</string>
+    <string name="title_activity_menu4">Menu4</string>
+    <string name="title_activity_menu5">Menu5</string>
+    <string name="title_activity_menu6">Menu6</string>
+    <string name="title_activity_menu1">Menu1</string>
+
+    <!--<string-array name="Menu1">
+        <item>Classic Chicken Burger</item>
+        <item>BBQ Pulled Jackfruit Sandwich</item>
+        <item>Fish and Chips</item>
+        <item>Caesar Salad</item>
+        <item>Buffalo Cauliflower Bites</item>
+        <item>Crafty Non-Alcoholic Beverages</item>
+    </string-array>
+    <string-array name="Des1">
+        <item>A juicy chicken patty topped with melted cheddar cheese, lettuce, tomato, pickles, and served on a toasted sesame seed bun.</item>
+        <item>Tender jackfruit slow-cooked in smoky barbecue sauce, served on a fresh bun with coleslaw.</item>
+        <item>Crispy beer-battered fish fillets served with golden, seasoned sweet potato fries and tartar sauce.</item>
+        <item>Fresh romaine lettuce, Parmesan cheese, croutons, and Caesar dressing.</item>
+        <item>Crispy cauliflower florets tossed in spicy buffalo sauce, served with celery sticks and blue cheese dressing.</item>
+        <item>A selection of non-alcoholic craft beverages, including artisanal sodas, sparkling water, and iced tea.</item>
+    </string-array>
+
+    <string-array name="Menu2">
+        <item>Caprese Salad</item>
+        <item>Portobello Mushroom Burger</item>
+        <item>Lentil Soup</item>
+        <item>Vegan Thai Curry</item>
+        <item>Avocado Toast with Poached Egg</item>
+        <item>Chocolate Cake</item>
+    </string-array>
+    <string-array name="Des2">
+        <item>Slices of ripe tomatoes, fresh mozzarella, basil leaves, drizzled with extra-virgin olive oil and balsamic glaze.</item>
+        <item>Grilled portobello mushroom cap served on a whole wheat bun with roasted red peppers and herbed mayo.</item>
+        <item>Hearty lentil soup with vegetables and aromatic spices, served with crusty whole grain bread.</item>
+        <item>A fragrant blend of tofu, coconut milk, and Thai spices, served with jasmine rice.</item>
+        <item>Toasted artisan bread topped with mashed avocado, a perfectly poached egg, and a sprinkle of chili flakes.</item>
+        <item>A decadent chocolate cake made without dairy or eggs, served with a dairy-free chocolate ganache.</item>
+    </string-array>
+
+    <string-array name="Menu3">
+        <item>Sushi Rolls</item>
+        <item>Spaghetti Aglio e Olio</item>
+        <item>Teriyaki Tofu</item>
+        <item>Falafel Wrap</item>
+        <item>Greek Salad</item>
+        <item>Mango Sticky Rice</item>
+    </string-array>
+    <string-array name="Des3">
+        <item>Fresh sushi rolls filled with ingredients like tofu, avocado, cucumber, and rice, served with soy sauce and pickled ginger.</item>
+        <item>Spaghetti pasta tossed with garlic-infused olive oil, red pepper flakes, and sautéed vegetables.</item>
+        <item>Grilled tofu glazed with sweet teriyaki sauce, served with steamed rice and stir-fried vegetables.</item>
+        <item>Warm pita bread filled with crispy falafel, tahini sauce, lettuce, and tomatoes.</item>
+        <item>Crisp lettuce, Kalamata olives, feta cheese, red onions, cucumbers, and tomatoes, drizzled with Greek dressing.</item>
+        <item>Sweet glutinous rice topped with ripe mango slices and a drizzle of coconut cream.</item>
+    </string-array>
+
+    <string-array name="Menu4">
+        <item>Blueberry Pancakes</item>
+        <item>Veggie Omelet</item>
+        <item>Fruit Parfait</item>
+        <item>Spinach and Feta Quiche</item>
+        <item>Cappuccinos</item>
+        <item>Banana Walnut Muffins</item>
+    </string-array>
+    <string-array name="Des4">
+        <item>Fluffy pancakes filled with juicy blueberries and drizzled with maple syrup.</item>
+        <item>Three-egg omelet filled with sautéed mushrooms, bell peppers, onions, and cheese.</item>
+        <item>Layers of Greek yogurt, granola, and fresh seasonal fruits like strawberries, blueberries, and bananas.</item>
+        <item>A savory pastry filled with a rich mixture of eggs, spinach, and feta cheese.</item>
+        <item>Espresso topped with steamed milk and a generous dollop of frothy milk foam.</item>
+        <item>Moist muffins loaded with ripe bananas and crunchy walnuts, perfect for breakfast or a snack.</item>
+    </string-array>
+
+    <string-array name="Menu5">
+        <item>Roast Chicken with Mashed Potatoes</item>
+        <item>Vegetable Pot Pie</item>
+        <item>Grilled Salmon</item>
+        <item>Veggie Shepherd\'s Pie</item>
+        <item>Cornbread</item>
+        <item>Baked Macaroni and Cheese</item>
+    </string-array>
+    <string-array name="Des5">
+        <item>Herb-roasted chicken served with creamy mashed potatoes and seasonal vegetables.</item>
+        <item>A savory pie filled with a medley of seasonal vegetables in a rich, creamy sauce, topped with a flaky crust.</item>
+        <item>Fresh salmon fillet grilled to perfection, served with lemon-dill sauce and a side of quinoa salad.</item>
+        <item>A hearty vegetarian shepherd\'s pie made with a savory filling of mixed vegetables, lentils, and mushrooms in a flavorful gravy, topped with creamy mashed potatoes and baked until golden brown.</item>
+        <item>Warm, homemade cornbread served with honey butter.</item>
+        <item>Creamy macaroni and cheese baked with a golden breadcrumb topping</item>
+    </string-array>
+
+    <string-array name="Menu6">
+        <item>Grilled Swordfish</item>
+        <item>Lobster Roll</item>
+        <item>Tuna Melt</item>
+        <item>Fish Tacos</item>
+        <item>Crab Cakes</item>
+        <item>Beachside Veggie Burger</item>
+    </string-array>
+    <string-array name="Des6">
+        <item>Fresh swordfish steak grilled and seasoned, served with lemon herb sauce and a side of couscous.</item>
+        <item>A classic lobster roll with tender lobster meat, mayo, and fresh herbs, served in a buttery roll.</item>
+        <item>Albacore tuna salad with melted Swiss cheese, served on whole wheat bread with a side salad.</item>
+        <item>Soft corn tortillas filled with grilled fish, shredded cabbage, salsa, and avocado crema.</item>
+        <item>Homemade crab cakes served with remoulade sauce and a side of coleslaw.</item>
+        <item>A flavorful veggie patty topped with lettuce, tomato, and a special sauce, served with sweet potato fries.</item>
+    </string-array>-->
+</resources>

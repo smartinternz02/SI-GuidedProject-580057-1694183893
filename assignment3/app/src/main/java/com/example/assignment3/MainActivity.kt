@@ -51,7 +51,7 @@ class MainActivity : ComponentActivity(){
     }
 }
 
-@SuppressLint("QueryPermissionsNeeded")
+@SuppressLint("QueryPermissionsNeeded", "SuspiciousIndentation")
 @OptIn(ExperimentalMaterial3Api::class)
 @Composable
 fun LoginScreen(){
